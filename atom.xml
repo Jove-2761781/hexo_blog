@@ -12,9 +12,9 @@
     <category term="关键词1" />
     <category term="关键词2" />
     <entry>
-        <id>https://jove-2761781.github.io/blog/virtualization/WSL/</id>
+        <id>https://jove-2761781.github.io/blog/virtualization/wsl/</id>
         <title>WSL</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/blog/virtualization/WSL/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/blog/virtualization/wsl/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -26,9 +26,9 @@
         <updated>2023-02-06T14:06:35.952Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/blog/virtualization/Qemu/</id>
+        <id>https://jove-2761781.github.io/blog/virtualization/qemu/</id>
         <title>Qemu</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/blog/virtualization/Qemu/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/blog/virtualization/qemu/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -65,9 +65,9 @@
         <updated>2023-02-06T14:06:35.879Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/blog/sqlserver/Backup%20&amp;%20Restore/</id>
+        <id>https://jove-2761781.github.io/blog/sqlserver/backup%20restore/</id>
         <title>Backup &amp; Restore</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/blog/sqlserver/Backup%20&amp;%20Restore/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/blog/sqlserver/backup%20restore/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -150,9 +150,9 @@
         <updated>2023-02-06T14:06:35.700Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/blog/rhel/yum/Creating%20a%20Yum%20Repository/</id>
+        <id>https://jove-2761781.github.io/blog/rhel/yum/creating%20a%20yum%20repository/</id>
         <title>Creating a Yum Repository</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/blog/rhel/yum/Creating%20a%20Yum%20Repository/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/blog/rhel/yum/creating%20a%20yum%20repository/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -941,9 +941,9 @@ ok
         <updated>2023-02-06T14:06:35.568Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/blog/rhel/systemd/Creating%20Custom%20Unit%20Files/</id>
+        <id>https://jove-2761781.github.io/blog/rhel/systemd/creating%20custom%20unit%20files/</id>
         <title>Creating Custom Unit Files</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/blog/rhel/systemd/Creating%20Custom%20Unit%20Files/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/blog/rhel/systemd/creating%20custom%20unit%20files/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
