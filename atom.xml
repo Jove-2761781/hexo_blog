@@ -38,9 +38,9 @@
         <updated>2023-02-06T15:47:00.587Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/sqlserver/sp_help_revlogin/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/database/sqlserver/sp_help_revlogin/</id>
         <title>sp_help_revlogin</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/sqlserver/sp_help_revlogin/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/database/sqlserver/sp_help_revlogin/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -51,9 +51,9 @@
         <updated>2023-02-06T15:47:00.583Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/sqlserver/orphaned%20users/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/database/sqlserver/orphaned%20users/</id>
         <title>orphaned users</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/sqlserver/orphaned%20users/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/database/sqlserver/orphaned%20users/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -65,9 +65,9 @@
         <updated>2023-02-06T15:47:00.580Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/sqlserver/backup%20restore/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/database/sqlserver/backup%20restore/</id>
         <title>Backup &amp; Restore</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/sqlserver/backup%20restore/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/database/sqlserver/backup%20restore/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -76,9 +76,9 @@
         <updated>2023-02-06T15:47:00.578Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/sqlserver/alwayson%20database%20can%20not%20shrink%20log%20file/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/database/sqlserver/alwayson%20database%20can%20not%20shrink%20log%20file/</id>
         <title>alwayson database can not shrink log file</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/sqlserver/alwayson%20database%20can%20not%20shrink%20log%20file/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/database/sqlserver/alwayson%20database%20can%20not%20shrink%20log%20file/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -91,9 +91,9 @@
         <updated>2023-02-06T15:47:00.576Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/shell/oracle_11g_setup/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/oracle_11g_setup/</id>
         <title>oracle_11g_setup</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/shell/oracle_11g_setup/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/oracle_11g_setup/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -102,9 +102,9 @@
         <updated>2023-02-06T15:47:00.571Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/shell/lsb_functions/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/lsb_functions/</id>
         <title>lsb_functions</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/shell/lsb_functions/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/lsb_functions/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,9 +113,9 @@
         <updated>2023-02-06T15:47:00.569Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/shell/echo_color/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/echo_color/</id>
         <title>echo_color</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/shell/echo_color/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/echo_color/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -127,9 +127,9 @@
         <updated>2023-02-06T15:47:00.568Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/scripts/ping/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/ping/</id>
         <title>ping</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/scripts/ping/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/ping/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -139,9 +139,9 @@
         <updated>2023-02-06T15:47:00.561Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/scripts/file%20arch/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/file%20arch/</id>
         <title>file arch</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/scripts/file%20arch/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/shell/file%20arch/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -150,9 +150,9 @@
         <updated>2023-02-06T15:47:00.559Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/yum/creating%20a%20yum%20repository/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/yum/creating%20a%20yum%20repository/</id>
         <title>Creating a Yum Repository</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/yum/creating%20a%20yum%20repository/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/yum/creating%20a%20yum%20repository/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -178,9 +178,9 @@
         <updated>2023-02-06T15:47:00.554Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/sed/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/sed/</id>
         <title>sed</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/sed/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/sed/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -259,9 +259,9 @@
         <updated>2023-02-06T15:47:00.545Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/grep/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/grep/</id>
         <title>grep</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/grep/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/grep/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -309,9 +309,9 @@
         <updated>2023-02-06T15:47:00.540Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/awk/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/awk/</id>
         <title>awk</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/text%20processing/awk/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/text%20processing/awk/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -941,9 +941,9 @@ ok
         <updated>2023-02-06T15:47:00.538Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/systemd/creating%20custom%20unit%20files/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/systemd/creating%20custom%20unit%20files/</id>
         <title>Creating Custom Unit Files</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/systemd/creating%20custom%20unit%20files/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/systemd/creating%20custom%20unit%20files/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -980,9 +980,9 @@ of systemd and actual service unit files on disk.&amp;lt;/font&amp;gt;&lt;/p&gt;
         <updated>2023-02-06T15:47:00.531Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/pxe/pxe%20for%20uefi/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/pxe%20for%20uefi/</id>
         <title>pxe for uefi</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/pxe/pxe%20for%20uefi/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/pxe%20for%20uefi/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1026,9 +1026,9 @@ of systemd and actual service unit files on disk.&amp;lt;/font&amp;gt;&lt;/p&gt;
         <updated>2023-02-06T15:47:00.527Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/pxe/pxe%20for%20bios/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/pxe%20for%20bios/</id>
         <title>pxe for bios</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/pxe/pxe%20for%20bios/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/pxe%20for%20bios/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1074,9 +1074,9 @@ of systemd and actual service unit files on disk.&amp;lt;/font&amp;gt;&lt;/p&gt;
         <updated>2023-02-06T15:47:00.526Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/pxe/kickstart/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/kickstart/</id>
         <title>kickstart</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/pxe/kickstart/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/pxe/kickstart/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1100,9 +1100,9 @@ of systemd and actual service unit files on disk.&amp;lt;/font&amp;gt;&lt;/p&gt;
         <updated>2023-02-06T15:47:00.524Z</updated>
     </entry>
     <entry>
-        <id>https://jove-2761781.github.io/hexo_blog/rhel/pacemaker/ports/</id>
+        <id>https://jove-2761781.github.io/hexo_blog/linux/rhel/pacemaker/ports/</id>
         <title>ports</title>
-        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/rhel/pacemaker/ports/"/>
+        <link rel="alternate" href="https://jove-2761781.github.io/hexo_blog/linux/rhel/pacemaker/ports/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
