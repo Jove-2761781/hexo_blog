@@ -22,10 +22,7 @@
             <category term="docker" scheme="https://jove-2761781.github.io/hexo_blog/tags/docker/" />
             <category term="config" scheme="https://jove-2761781.github.io/hexo_blog/tags/config/" />
             <pubDate>Tue, 07 Feb 2023 20:11:57 +0800</pubDate>
-            <description><![CDATA[ &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;restart-policy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#restart-policy&#34;&gt;#&lt;/a&gt; Restart Policy&lt;/h4&gt;
+            <description><![CDATA[ &lt;h4 id=&#34;restart-policy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#restart-policy&#34;&gt;#&lt;/a&gt; Restart Policy&lt;/h4&gt;
 &lt;p&gt;To configure the restart policy for a container, use the  &lt;code&gt;--restart&lt;/code&gt;  flag when using the  &lt;code&gt;docker run&lt;/code&gt;  command. The value of the  &lt;code&gt;--restart&lt;/code&gt;  flag can be any of the following:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
