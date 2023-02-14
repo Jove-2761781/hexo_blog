@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Hexo",
-    "subtitle": "subtitle",
+    "subtitle": "随缘更新",
     "icon": "https://jove-2761781.github.io/hexo_blog/images/favicon.ico",
-    "description": "个人博客",
+    "description": null,
     "home_page_url": "https://jove-2761781.github.io/hexo_blog",
     "items": [
         {
