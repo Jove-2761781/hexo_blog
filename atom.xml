@@ -34,8 +34,8 @@ CHARACTERSET=ZHS16GBK&lt;/p&gt;
 &lt;figure class=&#34;highlight shell&#34;&gt;&lt;figcaption data-lang=&#34;Bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;docker&lt;/span&gt; &lt;span class=&#34;token builtin class-name&#34;&gt;exec&lt;/span&gt; &lt;span class=&#34;token parameter variable&#34;&gt;-i&lt;/span&gt; oracle-11g expdp &lt;span class=&#34;token punctuation&#34;&gt;..&lt;/span&gt;.&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;For more information, please visit &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0pvdmUtMjc2MTc4MS9kb2NrZXItaW1hZ2VzL3RyZWUvbWFpbi9vcmFjbGUvMTEuMi4wLjQ=&#34;&gt;Quick reference&lt;/span&gt;&lt;/p&gt;
 </content>
         <category term="Docker" scheme="https://jove-2761781.github.io/hexo_blog/categories/docker/" />
-        <category term="ref" scheme="https://jove-2761781.github.io/hexo_blog/tags/ref/" />
         <category term="image" scheme="https://jove-2761781.github.io/hexo_blog/tags/image/" />
+        <category term="ref" scheme="https://jove-2761781.github.io/hexo_blog/tags/ref/" />
         <updated>2023-02-14T08:54:20.335Z</updated>
     </entry>
     <entry>

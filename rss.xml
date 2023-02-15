@@ -19,8 +19,8 @@
             <title>Oracle Image Overview</title>
             <link>https://jove-2761781.github.io/hexo_blog/docker/oracle%20image%20overview/</link>
             <category term="Docker" scheme="https://jove-2761781.github.io/hexo_blog/categories/docker/" />
-            <category term="ref" scheme="https://jove-2761781.github.io/hexo_blog/tags/ref/" />
             <category term="image" scheme="https://jove-2761781.github.io/hexo_blog/tags/image/" />
+            <category term="ref" scheme="https://jove-2761781.github.io/hexo_blog/tags/ref/" />
             <pubDate>Tue, 14 Feb 2023 16:54:20 +0800</pubDate>
             <description><![CDATA[ &lt;h4 id=&#34;default-setting&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#default-setting&#34;&gt;#&lt;/a&gt; Default setting&lt;/h4&gt;
 &lt;p&gt;Database located in  &lt;code&gt;/u01/app/oracle&lt;/code&gt;  folder&lt;/p&gt;
