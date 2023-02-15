@@ -87,7 +87,6 @@ CHARACTERSET=ZHS16GBK&lt;/p&gt;
             <title>WSL</title>
             <link>https://jove-2761781.github.io/hexo_blog/virtualization/wsl/</link>
             <category term="Virtualization" scheme="https://jove-2761781.github.io/hexo_blog/categories/virtualization/" />
-            <category term="virtualization" scheme="https://jove-2761781.github.io/hexo_blog/tags/virtualization/" />
             <category term="wsl" scheme="https://jove-2761781.github.io/hexo_blog/tags/wsl/" />
             <pubDate>Mon, 06 Feb 2023 23:47:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;wsl&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#wsl&#34;&gt;#&lt;/a&gt; WSL&lt;/h1&gt;
@@ -101,7 +100,6 @@ CHARACTERSET=ZHS16GBK&lt;/p&gt;
             <title>Qemu</title>
             <link>https://jove-2761781.github.io/hexo_blog/virtualization/qemu/</link>
             <category term="Virtualization" scheme="https://jove-2761781.github.io/hexo_blog/categories/virtualization/" />
-            <category term="virtualization" scheme="https://jove-2761781.github.io/hexo_blog/tags/virtualization/" />
             <category term="qemu" scheme="https://jove-2761781.github.io/hexo_blog/tags/qemu/" />
             <pubDate>Mon, 06 Feb 2023 23:47:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;qemu&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#qemu&#34;&gt;#&lt;/a&gt; Qemu&lt;/h1&gt;
