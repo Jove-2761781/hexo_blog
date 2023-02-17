@@ -2,13 +2,13 @@
 <rss version="2.0">
     <channel>
         <title>Hexo</title>
-        <subtitle>随缘更新</subtitle>
+        <subtitle>私人小站 - 随缘更新</subtitle>
         <icon>https://jove-2761781.github.io/hexo_blog/images/favicon.ico</icon>
         <link>https://jove-2761781.github.io/hexo_blog</link>
         <author>
           <name>Jove</name>
         </author>
-        <description></description>
+        <description>摸鱼打酱油</description>
         <language>zh-CN</language>
         <pubDate>Tue, 14 Feb 2023 16:54:20 +0800</pubDate>
         <lastBuildDate>Tue, 14 Feb 2023 16:54:20 +0800</lastBuildDate>
